@@ -1,0 +1,23 @@
+.caro-item {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg1 {
+    background-image: url('https://blog.parachutehome.com/wp-content/uploads/2017/05/Bedtime-Routine-Tommy-Caldwell_Hero_Retouched.jpg');
+}
+.bg2 {
+    background-image: url('https://cdn.whistler.com/blog/wp-content/uploads/2016/8/whistler-alpine-hiking-og.jpg');
+}
+.bg3 {
+    background-image: url('https://bloximages.newyork1.vip.townnews.com/thesuburban.com/content/tncms/assets/v3/editorial/8/2c/82c0a4e4-a7c9-11e8-87ea-332f253ca443/5b804b2521a1b.image.jpg?resize=1200%2C800');
+}
+.bg4 {
+    background-image: url('https://wpmisc.com/sites/default/files/wallpaper/sports/75012/snow-skiing-hd-wallpapers-75012-6478746.png');
+}
+.my-nav {
+    height: 25vh;
+    background: rgba(112, 128, 144, .75);
+    z-index: 10;
+}
